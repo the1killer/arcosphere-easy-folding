@@ -1,0 +1,8 @@
+{
+     "name": "arcosphere-easy-folding",
+     "version": "0.0.1",
+     "title": "Space Exploration Arcosphere Easy Folding",
+     "author": "The1Killer",
+     "factorio_version": "1.1",
+     "dependencies": ["space-exploration >= 0.5.56"]
+   }
